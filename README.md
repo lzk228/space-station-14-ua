@@ -26,7 +26,7 @@ Space Station 14 — це ремейк SS13, який працює на влас
 ## Білд
 
 1. Клонуйте цей репозиторій.
-2. Запустіть `RUN_THIS.py` для ініціалізації субмодулів та завантаження движку. to init submodules and download the engine.
+2. Запустіть `RUN_THIS.py` для ініціалізації субмодулів та завантаження движку.
 3. Скомпілюйте проект.
 
 [Більш детальні інструкції по білду проекту](https://docs.spacestation14.com/en/general-development/setup.html)

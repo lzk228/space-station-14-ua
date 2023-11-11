@@ -1,11 +1,11 @@
 - type: dataset
   id: ShuttleNames
   values:
-  - A Shuttle Will Not Occur
-  - Big Money Shuttle
-  - Engine Change
-  - Ships-the-Cargo
-  - Shootel
-  - Shuttle McShuttleface
-  - ShuttleShuttle
-  - Urist McShuttle
+  - "Шатл не з'явиться"
+  - Великий Грошовий Шатл
+  - Зміна Двигуна
+  - Той що доставляє вантажі
+  - Шутель
+  - Шатл МакШатлфейс
+  - ШатлШатл
+  - Уріст МакШатл

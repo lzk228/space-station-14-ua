@@ -12,7 +12,7 @@ Space Station 14 — це ремейк SS13, який працює на влас
 
 ## Посилання на ресурси проекту
 
-[Discord](https://discord.com/invite/Kp8YZS5fkS)
+[Discord](https://discord.gg/qq5E9T27b7)
 
 ## Офіційна документація/вікі
 

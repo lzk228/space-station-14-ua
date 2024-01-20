@@ -1,4 +1,4 @@
-ent-FoodEggBase = { ent-['FoodInjectableBase', 'ItemHeftyBase'] }
+ent-FoodEggBase = { ent-FoodInjectableBase }
 
   .desc = An egg!
 ent-Eggshells = eggshells

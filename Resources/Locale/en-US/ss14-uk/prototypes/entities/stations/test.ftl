@@ -1,3 +1,3 @@
-ent-TestStation = { ent-['BaseStation', 'BaseStationJobsSpawning', 'BaseStationRecords', 'BaseStationAlertLevels'] }
+ent-TestStation = { ent-BaseStation }
 
-  .desc = { ent-['BaseStation', 'BaseStationJobsSpawning', 'BaseStationRecords', 'BaseStationAlertLevels'].desc }
+  .desc = { ent-BaseStation.desc }

@@ -1,11 +1,11 @@
 ### Generic, general words, which fit into multiple contexts
 
-generic-not-available-shorthand = N/A
-generic-article-a = a
-generic-article-an = an
-generic-unknown = unknown
-generic-unknown-title = Unknown
-generic-error = error
-generic-invalid = invalid
-generic-hours = hours
-generic-playtime-title = Playtime
+generic-not-available-shorthand = Н/Д
+generic-article-a = ""
+generic-article-an = ""
+generic-unknown = невідомо
+generic-unknown-title = Невідомо
+generic-error = помилка
+generic-invalid = недійсно
+generic-hours = годин
+generic-playtime-title = Ігровий час

@@ -2,7 +2,7 @@ ent-BaseThruster = { ent-BaseStructureDynamic }
     .desc = { ent-BaseStructureDynamic.desc }
 ent-Thruster = thruster
 
-  .desc = { ent-['BaseThruster', 'ConstructibleMachine'].desc }
+  .desc = { ent-BaseThruster.desc }
 ent-ThrusterUnanchored = { ent-Thruster }
     .suffix = Unanchored
     .desc = { ent-Thruster.desc }
@@ -11,7 +11,7 @@ ent-DebugThruster = { ent-BaseThruster }
     .desc = { ent-BaseThruster.desc }
 ent-Gyroscope = gyroscope
 
-  .desc = { ent-['BaseThruster', 'ConstructibleMachine'].desc }
+  .desc = { ent-BaseThruster.desc }
 ent-GyroscopeUnanchored = { ent-Gyroscope }
     .suffix = Unanchored
     .desc = { ent-Gyroscope.desc }

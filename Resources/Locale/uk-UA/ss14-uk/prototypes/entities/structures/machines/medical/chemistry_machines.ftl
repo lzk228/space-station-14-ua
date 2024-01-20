@@ -1,6 +1,6 @@
-ent-BaseTabletopChemicalMachine = { ent-['BaseMachinePowered', 'ConstructibleMachine'] }
+ent-BaseTabletopChemicalMachine = { ent-BaseMachinePowered }
 
-  .desc = { ent-['BaseMachinePowered', 'ConstructibleMachine'].desc }
+  .desc = { ent-BaseMachinePowered.desc }
 ent-MachineElectrolysisUnit = electrolysis unit
     .desc = The latest in medicinal electrocution technology.
 ent-MachineCentrifuge = tabletop centrifuge

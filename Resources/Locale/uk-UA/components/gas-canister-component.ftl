@@ -15,3 +15,4 @@ comp-gas-canister-ui-release-valve = Release Valve:
 comp-gas-canister-ui-release-valve-open = Open
 comp-gas-canister-ui-release-valve-close = Close
 comp-gas-canister-ui-pressure = { $pressure } kPa
+comp-gas-canister-slot-name-gas-tank = Gas tank

@@ -1,17 +1,13 @@
 ent-BaseThiefObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
-ent-BaseThiefStealObjective = { ent-BaseThiefObjective   }
-
-  .desc = { ent-BaseThiefObjective.desc }
+ent-BaseThiefStealObjective = { ent-BaseThiefObjective }
+    .desc = { ent-BaseThiefObjective.desc }
 ent-BaseThiefStealCollectionObjective = { ent-BaseThiefObjective }
-
-  .desc = { ent-BaseThiefObjective.desc }
+    .desc = { ent-BaseThiefObjective.desc }
 ent-BaseThiefStealStructureObjective = { ent-BaseThiefObjective }
-
-  .desc = { ent-BaseThiefObjective.desc }
+    .desc = { ent-BaseThiefObjective.desc }
 ent-BaseThiefStealAnimalObjective = { ent-BaseThiefObjective }
-
-  .desc = { ent-BaseThiefObjective.desc }
+    .desc = { ent-BaseThiefObjective.desc }
 ent-FigurineStealCollectionObjective = { ent-BaseThiefStealCollectionObjective }
     .desc = { ent-BaseThiefStealCollectionObjective.desc }
 ent-HeadCloakStealCollectionObjective = { ent-BaseThiefStealCollectionObjective }
@@ -32,6 +28,8 @@ ent-CannabisStealCollectionObjective = { ent-BaseThiefStealCollectionObjective }
     .desc = { ent-BaseThiefStealCollectionObjective.desc }
 ent-LAMPStealCollectionObjective = { ent-BaseThiefStealCollectionObjective }
     .desc = { ent-BaseThiefStealCollectionObjective.desc }
+ent-FlippoEngravedLighterStealObjective = { ent-BaseThiefStealObjective }
+    .desc = { ent-BaseThiefStealObjective.desc }
 ent-ForensicScannerStealObjective = { ent-BaseThiefStealObjective }
     .desc = { ent-BaseThiefStealObjective.desc }
 ent-AmmoTechFabCircuitboardStealObjective = { ent-BaseThiefStealObjective }
@@ -97,6 +95,8 @@ ent-RenaultStealObjective = { ent-BaseThiefStealAnimalObjective }
 ent-HamletStealObjective = { ent-BaseThiefStealAnimalObjective }
     .desc = { ent-BaseThiefStealAnimalObjective.desc }
 ent-ShivaStealObjective = { ent-BaseThiefStealAnimalObjective }
+    .desc = { ent-BaseThiefStealAnimalObjective.desc }
+ent-TropicoStealObjective = { ent-BaseThiefStealAnimalObjective }
     .desc = { ent-BaseThiefStealAnimalObjective.desc }
 ent-SmileStealObjective = { ent-BaseThiefStealAnimalObjective }
     .desc = { ent-BaseThiefStealAnimalObjective.desc }

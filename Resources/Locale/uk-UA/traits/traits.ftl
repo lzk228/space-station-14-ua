@@ -1,7 +1,9 @@
 trait-blindness-name = Blindness
 trait-blindness-desc = You lack vision
 trait-narcolepsy-name = Narcolepsy
+trait-narcolepsy-desc = You fall asleep randomly
 trait-narcolepsy-decs = You fall asleep randomly
+trait-pacifist-desc = You cannot attack or hurt any living beings.
 trait-pacifist-name = Pacifist
 permanent-blindness-trait-examined = [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } eyes are glassy and unfocused. It doesn't seem like { SUBJECT($target) } can see you.[/color]
 trait-lightweight-name = Lightweight Drunk
@@ -9,6 +11,8 @@ trait-lightweight-desc = Alcohol has a stronger effect on you
 trait-muted-name = Muted
 trait-muted-desc = You can't speak
 trait-paracusia-name = Paracusia
+trait-unrevivable-name = Unrevivable
+trait-unrevivable-desc = You are unable to be revived by defibrillators.
 trait-paracusia-desc = You hear sounds that aren't really there
 trait-uncloneable-name = Uncloneable
 trait-uncloneable-desc = Cannot be cloned

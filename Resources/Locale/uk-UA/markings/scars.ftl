@@ -1,6 +1,10 @@
+marking-ScarEyeRight-scar_eye_right = Right Eye Scar
 marking-ScarEyeRight-eyescarright = Eye scar (Right)
+marking-ScarEyeLeft-scar_eye_left = Left Eye Scar
 marking-ScarEyeRight = Eye Scar (Right)
+marking-ScarTopSurgeryShort-scar_top_surgery_short = Top Surgery Scar
 marking-ScarEyeLeft-eyescarleft = Eye scar (Left)
+marking-ScarTopSurgeryLong-scar_top_surgery_long = Top Surgery Scar
 marking-ScarEyeLeft = Eye Scar (Left)
 marking-ScarTopSurgeryShort = Top Surgery Scar (Short)
 marking-ScarTopSurgeryLong = Top Surgery Scar (Long)

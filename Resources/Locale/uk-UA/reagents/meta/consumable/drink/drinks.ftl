@@ -56,3 +56,5 @@ reagent-name-the-martinez = The Martinez
 reagent-desc-the-martinez = The edgerunner legend. Remembered by a drink, forgotten by a drunk.
 reagent-name-white-gilgamesh = white gilgamesh
 reagent-desc-white-gilgamesh = A sickening mixture of milk and beer. Makes you feel like you're made of wood.
+reagent-name-mopwata = mopwata
+reagent-desc-mopwata = Dirty, stagnant mop water.

@@ -59,6 +59,7 @@
   - type: Damageable
     damageContainer: Inorganic
     damageModifierSet: StrongMetallic
+  - type: PacifismDangerousAttack
   - type: Destructible
     thresholds:
     - trigger:
@@ -75,7 +76,7 @@
         acts: ["Destruction"]
       - !type:PlaySoundBehavior
         sound:
-          path: /Audio/Effects/metalbreak.ogg
+          collection: MetalGlassBreak
       - !type:ExplodeBehavior
       - !type:SpawnEntitiesBehavior
         spawn:
@@ -191,6 +192,7 @@
   - type: Damageable
     damageContainer: Inorganic
     damageModifierSet: Metallic
+  - type: PacifismDangerousAttack
   - type: Destructible
     thresholds:
     - trigger:
@@ -208,7 +210,7 @@
       - !type:ExplodeBehavior
       - !type:PlaySoundBehavior
         sound:
-          path: /Audio/Effects/metalbreak.ogg
+          collection: MetalGlassBreak
   - type: Construction
     graph: WallmountSubstation
     node: substation

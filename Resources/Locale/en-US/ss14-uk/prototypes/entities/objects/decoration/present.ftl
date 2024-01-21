@@ -1,4 +1,4 @@
-ent-PresentBase = Present
+ent-PresentBase = present
     .desc = A little box with incredible surprises inside.
 ent-Present = { ent-PresentBase.desc }
 
@@ -6,10 +6,10 @@ ent-Present = { ent-PresentBase.desc }
   .desc = { ent-PresentBase.desc }
 ent-PresentRandomUnsafe = { ent-PresentBase }
 
-  .suffix = Filled Unsafe
+  .suffix = Filled, any item
   .desc = { ent-PresentBase.desc }
 ent-PresentRandomInsane = { ent-PresentRandomUnsafe }
-    .suffix = Filled Insane
+    .suffix = Filled, any entity
     .desc = { ent-PresentRandomUnsafe.desc }
 ent-PresentRandom = { ent-PresentBase }
 

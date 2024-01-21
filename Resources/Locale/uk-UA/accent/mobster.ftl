@@ -1,8 +1,8 @@
-accent-mobster-prefix-1 = Н'єхх,
+accent-mobster-prefix-1 = Нєхх,
 accent-mobster-suffix-boss-1 = , бачиш?
 accent-mobster-suffix-boss-2 = , та забий.
 accent-mobster-suffix-boss-3 = , поняв?
-accent-mobster-suffix-minion-1 = , yeah!
+accent-mobster-suffix-minion-1 = , ага!
 accent-mobster-suffix-minion-2 = , бос каже!
 accent-mobster-words-1 = let me
 accent-mobster-words-replace-1 = lemme

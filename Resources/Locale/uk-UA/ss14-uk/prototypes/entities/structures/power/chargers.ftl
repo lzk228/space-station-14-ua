@@ -1,12 +1,13 @@
 ent-BaseRecharger = { ent-BaseMachinePowered }
-
-  .desc = { ent-BaseMachinePowered.desc }
+    .desc = { ent-BaseMachinePowered.desc }
 ent-BaseItemRecharger = { ent-BaseRecharger }
     .desc = { ent-BaseRecharger.desc }
 ent-PowerCellRecharger = cell recharger
     .desc = { ent-BaseItemRecharger.desc }
 ent-WeaponCapacitorRecharger = recharger
     .desc = { ent-BaseItemRecharger.desc }
+ent-TurboItemRecharger = turbo recharger
+    .desc = An overclocked recharger that's been adapted with a global port.
 ent-WallWeaponCapacitorRecharger = wall recharger
     .desc = { ent-BaseItemRecharger.desc }
 ent-BorgCharger = cyborg recharging station

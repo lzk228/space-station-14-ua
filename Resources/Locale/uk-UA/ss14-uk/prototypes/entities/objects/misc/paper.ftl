@@ -1,5 +1,7 @@
 ent-Paper = paper
     .desc = A piece of white paper.
+ent-PaperScrap = paper scrap
+    .desc = A crumpled up piece of white paper.
 ent-PaperOffice = office paper
     .desc = A plain sheet of office paper.
 ent-PaperArtifactAnalyzer = artifact analyzer printout

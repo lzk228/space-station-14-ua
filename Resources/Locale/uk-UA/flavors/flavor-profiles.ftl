@@ -46,6 +46,7 @@ flavor-base-spaceshroom = mysterious
 flavor-base-clean = clean
 flavor-base-alkaline = alkaline
 flavor-base-holy = holy
+flavor-base-horrible = horrible
 # lmao
 flavor-base-terrible = terrible
 
@@ -57,6 +58,9 @@ flavor-complex-honey = like honey
 
 # Food-specific flavors.
 
+flavor-complex-ketchunaise = like tomatoes and mayonnaise
+flavor-complex-mayonnaise = like mayonnaise
+flavor-complex-mustard = like mustard
 
 ## Food chemicals. In case you get something that has this inside.
 
@@ -164,6 +168,7 @@ flavor-complex-lost-friendship = like lost friendship
 
 # Drink-specific flavors.
 
+flavor-complex-light = like a light gone out
 
 ## Generic alcohol/soda taste. This should be replaced with an actual flavor profile.
 
@@ -194,6 +199,7 @@ flavor-complex-ice = like ice
 
 ## Cocktails
 
+flavor-complex-mopwata = like stagnant, dirty water
 flavor-complex-long-island = suspiciously like iced tea
 flavor-complex-three-mile-island = like tea brewed in nuclear runoff
 flavor-complex-whiskey-cola = like carbonated molasses
